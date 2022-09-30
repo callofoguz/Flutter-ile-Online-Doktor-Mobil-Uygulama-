@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269508533575",
+    "project_id": "online-doktor-a87c7",
+    "storage_bucket": "online-doktor-a87c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269508533575:android:4ccec3ffc2a07468ef0062",
+        "android_client_info": {
+          "package_name": "com.example.doctor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269508533575-qgctu1odrrd3uogleiro1f18o54qrcsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp3umZPsMs-ZuJvjaqs0oIaTyWxRtBTbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269508533575-qgctu1odrrd3uogleiro1f18o54qrcsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
