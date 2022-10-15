@@ -1,4 +1,4 @@
-# Flutter-ile-Online-Doktor-Mobil-Uygulama-
+# Flutter-with-Online-Doctor-Mobile-App-
 A mobile application I made in my senior year. It has features such as body mass index, detection of disease according to symptoms, doctor's knowledge. Registration and login screens are available. I used firebase.
 ![Login](https://user-images.githubusercontent.com/61086171/194532862-128aa392-9611-4544-bc81-41c993c426e5.png)
 ![Register](https://user-images.githubusercontent.com/61086171/194532868-f0ec62ee-5aa2-4ddc-8e7d-e57c04cadcb3.png)
