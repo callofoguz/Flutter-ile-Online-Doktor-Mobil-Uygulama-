@@ -1,5 +1,5 @@
 # Flutter-ile-Online-Doktor-Mobil-Uygulama-
-Son sınıfta yaptığım bir mobil uygulama. Vücut kitle endeksi, belirtilere göre hastalığın tespiti, doktor bilgisi gibi özellikleri mevcut. Kayıt ve giriş ekranları mevcut. Firebase kullandım.
+A mobile application I made in my senior year. It has features such as body mass index, detection of disease according to symptoms, doctor's knowledge. Registration and login screens are available. I used firebase.
 ![Login](https://user-images.githubusercontent.com/61086171/194532862-128aa392-9611-4544-bc81-41c993c426e5.png)
 ![Register](https://user-images.githubusercontent.com/61086171/194532868-f0ec62ee-5aa2-4ddc-8e7d-e57c04cadcb3.png)
 ![WhatsApp Image 2022-06-22 at 01 08 37](https://user-images.githubusercontent.com/61086171/194532891-ed4ede13-b493-4d7c-9d0d-8af98fdf81a9.jpeg)
